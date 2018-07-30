@@ -1,2 +1,2 @@
-var userInput="Enter a input";
+var userInput=prompt("Enter a input");
 console.log(userInput);
